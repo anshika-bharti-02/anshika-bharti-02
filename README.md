@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anshika 👋
 
-<!--
-**anshika-bharti-02/anshika-bharti-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at NIT Delhi
 
-Here are some ideas to get you started:
+💻 Skills
+- Java
+- Python
+- Data Structures & Algorithms
+- MERN Stack (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Smart Water Quality Monitoring System
+- Fashion Design Website
+
+📚 Currently solving LeetCode problems in Java
+
+🌱 Exploring Web Development and Machine Learning
+
